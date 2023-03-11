@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 <ul>
 <li>Skills:</li>
 <li>Html</li>
- <li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-
-<li>
+ <li>Css</li>
+<li>JavaScript</li>
+<li>Boostrap</li>
+<li>Jquery</li>
+<li>Css Flex</li>
+<li>Saas</li>
+<li>Es6</li>
+<li>React.js</li>
+<li>Angular.js</li>
+<li>TypeScript</li>
+<li>Node.js</li>
+<li>Firebase</li>
+<li>c#</li>
+<li>Sql ser</li>
+<li>Asp.Net (MVC)</li>
+<liMy Sqlli>
+<li> Php</li>
+<li>Laravel</li>
 
 
