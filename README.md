@@ -1,4 +1,4 @@
- 👋 Hi / I am Abdul Razzaq
+ 👋  <b>Hi / I am Abdul Razzaq</b>
 <br>
 I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.
 
