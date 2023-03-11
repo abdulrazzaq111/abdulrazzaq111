@@ -14,5 +14,26 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Data Science,AWS,Data Engineering
 
 💬 Talk to me about Frontend Development, JavaScript, React.js ,Php, Open Source
+<ul>
+<li>Skills:</li>
+<li>Html</li>
+ <li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+<li>
 
 
